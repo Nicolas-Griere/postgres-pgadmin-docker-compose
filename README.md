@@ -18,8 +18,3 @@ Ceci est un exemple de fichier docker-compose pour démarrer un container Postgr
 5. Utiliser le Query tool pgAdmin pour créer ses tables et exécuter des requêtes
 
 ![query tool pgadmin](query-tool-pgadmin.png)
-
-<p align="center">
-  <br>
-  <a href="https://github.com/ngriere/groundhog/blob/master/Docker/README.md">Table of Contents</a>
-</p>
